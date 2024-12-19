@@ -1,0 +1,948 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -10,
+                            -10
+                        ],
+                        [
+                            -6,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "START",
+                "lastPoint": "T_AA"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 0,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            0
+                        ],
+                        [
+                            106,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AA",
+                "lastPoint": "T_AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            0
+                        ],
+                        [
+                            -6,
+                            3
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AA",
+                "lastPoint": "T_AC"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            0
+                        ],
+                        [
+                            106,
+                            3
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AB",
+                "lastPoint": "T_AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            3
+                        ],
+                        [
+                            0,
+                            3
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AC",
+                "lastPoint": "AC"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            3
+                        ],
+                        [
+                            106,
+                            3
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AD",
+                "lastPoint": "T_AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            3
+                        ],
+                        [
+                            -6,
+                            6
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AC",
+                "lastPoint": "T_AE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            3
+                        ],
+                        [
+                            106,
+                            6
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AD",
+                "lastPoint": "T_AF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            6
+                        ],
+                        [
+                            0,
+                            6
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AE",
+                "lastPoint": "AE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            6
+                        ],
+                        [
+                            106,
+                            6
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AF",
+                "lastPoint": "T_AF"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            6
+                        ],
+                        [
+                            -6,
+                            9
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AE",
+                "lastPoint": "T_AG"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            6
+                        ],
+                        [
+                            106,
+                            9
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AF",
+                "lastPoint": "T_AH"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            9
+                        ],
+                        [
+                            0,
+                            9
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AG",
+                "lastPoint": "AG"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            9
+                        ],
+                        [
+                            106,
+                            9
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AH",
+                "lastPoint": "T_AH"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            9
+                        ],
+                        [
+                            -6,
+                            12
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AG",
+                "lastPoint": "T_AI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            9
+                        ],
+                        [
+                            106,
+                            12
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AH",
+                "lastPoint": "T_AJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            12
+                        ],
+                        [
+                            0,
+                            12
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AI",
+                "lastPoint": "AI"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            12
+                        ],
+                        [
+                            106,
+                            12
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AJ",
+                "lastPoint": "T_AJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            12
+                        ],
+                        [
+                            -6,
+                            15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AI",
+                "lastPoint": "T_AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            12
+                        ],
+                        [
+                            106,
+                            15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AJ",
+                "lastPoint": "T_AL"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            15
+                        ],
+                        [
+                            0,
+                            15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AK",
+                "lastPoint": "AK"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            15
+                        ],
+                        [
+                            106,
+                            15
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AL",
+                "lastPoint": "T_AL"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            15
+                        ],
+                        [
+                            -6,
+                            18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AK",
+                "lastPoint": "T_AM"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            15
+                        ],
+                        [
+                            106,
+                            18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AL",
+                "lastPoint": "T_AN"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            18
+                        ],
+                        [
+                            0,
+                            18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AM",
+                "lastPoint": "AM"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            18
+                        ],
+                        [
+                            106,
+                            18
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AN",
+                "lastPoint": "T_AN"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            18
+                        ],
+                        [
+                            -6,
+                            21
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AM",
+                "lastPoint": "T_AO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            18
+                        ],
+                        [
+                            106,
+                            21
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AN",
+                "lastPoint": "T_AP"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            21
+                        ],
+                        [
+                            0,
+                            21
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AO",
+                "lastPoint": "AO"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            21
+                        ],
+                        [
+                            106,
+                            21
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AP",
+                "lastPoint": "T_AP"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            21
+                        ],
+                        [
+                            -6,
+                            24
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AO",
+                "lastPoint": "T_AQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            21
+                        ],
+                        [
+                            106,
+                            24
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AP",
+                "lastPoint": "T_AR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            24
+                        ],
+                        [
+                            0,
+                            24
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AQ",
+                "lastPoint": "AQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            24
+                        ],
+                        [
+                            106,
+                            24
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AR",
+                "lastPoint": "T_AR"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            24
+                        ],
+                        [
+                            -6,
+                            27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AQ",
+                "lastPoint": "T_AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            24
+                        ],
+                        [
+                            106,
+                            27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AR",
+                "lastPoint": "T_AT"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            27
+                        ],
+                        [
+                            0,
+                            27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AS",
+                "lastPoint": "AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            100,
+                            27
+                        ],
+                        [
+                            106,
+                            27
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "AT",
+                "lastPoint": "T_AT"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            30
+                        ],
+                        [
+                            106,
+                            30
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AU",
+                "lastPoint": "T_AV"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -6,
+                            27
+                        ],
+                        [
+                            -6,
+                            30
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AS",
+                "lastPoint": "T_AU"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            106,
+                            27
+                        ],
+                        [
+                            106,
+                            30
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "firstPoint": "T_AT",
+                "lastPoint": "T_AV"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+.vs/
+work/.RData
+work/.Rhistory
+farmsim/bin/
+farmsim/obj/
+libFarmSim/bin/
+libFarmSim/obj/
+libRobotPath/bin/
+libRobotPath/obj/
+farmsim_svc/bin/
+farmsim_svc/obj/
+bin/
+obj/
+.vscode/
+*/out/*
+out/*

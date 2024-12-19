@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BitMiracle.LibTiff.NET" Version="2.4.649" />
+    <PackageReference Include="GDAL" Version="3.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\libRobotPath\libRobotPath.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NModcom">
+      <HintPath>..\depends\NModcom.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
